@@ -2,4 +2,4 @@
 
 # React Reading List
 
-#### A simple form for users to save book title, author and synopsis in a list of books they would like to read. This app is deployed to [Heroku](https://polar-springs-69410.herokuapp.com/).
+#### A simple form for users to save book title, author and synopsis in a list of books they would like to read. Learning to connect a React app to MongoDB (using MongoDB Atlas). This app is deployed to [Heroku](https://polar-springs-69410.herokuapp.com/).
